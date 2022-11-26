@@ -1,4 +1,3 @@
-https://www.olga-agovic.de/start/
 
 Color:
 

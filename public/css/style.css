@@ -566,3 +566,8 @@ footer ul li a {
   background: hsl(158deg, 92%, 62%);
   width: 0%;
 }
+
+#navbar {
+  -webkit-transition: top 500ms;
+  transition: top 500ms;
+}

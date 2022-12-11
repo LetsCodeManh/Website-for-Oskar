@@ -571,3 +571,7 @@ footer ul li a {
   -webkit-transition: top 500ms;
   transition: top 500ms;
 }
+
+#more {
+  display: none;
+}

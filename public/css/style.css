@@ -575,3 +575,7 @@ footer ul li a {
 #more {
   display: none;
 }
+
+.nav-item.active a {
+  color: hsl(158deg, 92%, 62%);
+}

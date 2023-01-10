@@ -1,0 +1,164 @@
+{
+  "welcomePage": {
+    "greeting": "Добро пожаловать!",
+    "description": "Я радa, что Вас заинтересовали мои предложения в области «системных методов».",
+    "whichLng": "Какой язык вы хотели бы продолжить?",
+    "nextButton": "Я принимаю этот язык!"
+  },
+
+  "footer": {
+    "terms": "Условия",
+    "impressum": "отпечаток",
+    "privacy": "Защита данных"
+  },
+
+  "About": {
+    "title": "Обо мне",
+    "subtitle": "Системный консультант/социальный терапевт Системный терапевт/семейный терапевт",
+    "description": "Место рождения Оренбург/Россия в семье немецкого происхождения, я использую оба рабочих языка: немецкий и русский. Применяя знания, которые я приобрел за более чем 20 лет, как благодаря собственному опыту и квалификации, так и работе с людьми из многих стран, областей свободной экономики, школ, социальных учреждений и различных возрастных групп, Я помогаю отдельным лицам, парам, а также компаниям достичь измеримых результатов в улучшении качества их жизни. Поскольку я работаю в качестве системного консультанта социального терапевта, системного терапевта и семейного терапевта (DGSF), ориентированных на решение, мои консультационные услуги имеют краткосрочную и среднесрочную продолжительность и используются людьми для улучшения своего физического здоровья эмоционального состояния, отношений,финансов, управления временем и профессионального роста. Помимо прочего, я работаю на основе таких методов, как семейные расстановки, генограмма, психодрама, НЛП, гипноситемическая, имиджевая работа, системные метафоры, рефрейминг и многие другие многочисленные методы которые индивидуально подбираются мной для каждого и соответствующим образом адаптируются и изменяются в процессе консультирования/коучинга. Мои консультации направлены на самоплательщиков. В своей работе я использую самые современные методы коучинга и системного консалтинга, которые приносят успех уже через несколько часов. Абсолютная фамильярность и конфиденциальность, низкая бюрократия и краткосрочные назначения облегчают процесс и быстро приводят к улучшению качества жизни и профессиональной стабильности. Моя цель - помочь вам улучшить качество вашей жизни как можно быстрее. Каждый день бесценен! Если у вас есть какие-либо вопросы, или вы хотели бы записаться на прием таким образом напишите мне электронное письмо или просто позвоните мне, телефонный разговор не имеет обязательной силы и обычно многие вопросы могут быть уточнены заранее. Если вы не можете связаться со мной по телефону, пожалуйста, оставьте мне сообщение, перезвоню вам как можно скорее. Я с нетерпением жду встречи с вами!",
+    "DGSF": "Сертификация DGSF"
+  },
+
+  "AGB": {
+    "title": "Allgemeine Geschäftsbedingugen für Beratung/Coaching/Supervision",
+    "paragraph1": {
+      "title": "Tätigkeit",
+      "description": "Der Auftragnehmer verpflichtet sich zur ordnungsgemäßen und fachgerechten Erbringung der Leistung. Er ist dabei den Standards und Positionen der Deutschen Gesellschaften für Supervision e.V. (DGSv) verpflichtet."
+    },
+    "paragraph2": {
+      "title": "Beteiligung Dritter am Vertrag",
+      "description": "Der Auftraggeber verpflichtet sich, die ggf. von ihm benannten Personen, welche die Beratungsleistung in Anspruch nehmen, in geeigneter Weise am Abschluss dieses Vertrages zu beteiligen."
+    },
+    "paragraph3": {
+      "title": "Schweigepflicht, Aufbewahrung und Rückgabe von Unterlagen, Einsichtnahme",
+      "description": {
+        "text1": "(1) Der Auftragnehmer verpflichtet sich, alle ihm während seiner Tätigkeit bekanntgewordenen Geschäfts- und Betriebsgeheimnisse und sonstigen geschäftlichen bzw. betrieblichen Tatsachen nur im Rahmen seiner Tätigkeit für den Auftraggeber zu verwenden. Zur Weitergabe oder Offenbarung einer solchen Information bedarf der Auftragnehmer der vorherigen schriftlichen Zustimmung des Auftraggebers.",
+        "text2": "(2) Der Auftragnehmer verpflichtet sich, über die Inhalte der Supervision mit den vom Auftraggeber benannten Personen stillschweigen zu bewahren. Sind in der Supervision jedoch Dinge berührt, die Strukturen, Aufgaben und Verantwortlichkeiten der übergreifenden Organisation tangieren, so ist von der Schweigepflicht im folgenden Sinne eine Ausnahme zu machen: Verschwiegenheit im Persönlichen und Offenheit im Strukturellen. Diese Vereinbarung betrifft insbesondere Rückkopplungsgespräche mit der Leitung.",
+        "text3": "(3) Der Auftraggeber stellt dem Auftragnehmer alle zur Ausübung seiner Tätigkeit erforderlichen Informationen und Unterlagen zur Verfügung. Es bleibt dem Auftraggeber vorbehalten dem Auftragnehmer insoweit lediglich nur Einsicht zu gewähren.",
+        "text4": "(4) Der Auftragnehmer verpflichtet sich, alle im Rahmen seiner Beratungstätigkeit zur Verfügung gestellten Geschäfts- oder Betriebsunterlagen ordnungsgemäß aufzubewahren, so daß insbesondere Dritte keine Einsicht nehmen können.",
+        "text5": "(5) Unmittelbar nach Beendigung dieses Vertrages hat der Auftragnehmer sämtliche Schriftstücke und Materialien, zu deren Aufbewahrung er gemäß §3, (4) verpflichtet ist, an den Auftraggeber herauszugeben."
+      }
+    },
+    "paragraph4": {
+      "title": "Zahlungsfrist",
+      "description": "Die Rechnungsbeträge sind ohne Abzug innerhalb 14 Tage zahlbar."
+    },
+    "paragraph5": {
+      "title": "Vorübergehende Verhinderung der Vertragsparteien",
+      "description": {
+        "text1": "(1) Sagt der Auftraggeber oder die von ihm benannten Personen einen vereinbarten Termin weniger als 48 Stunden vor seinem Beginn ab, ist das volle Honorar als Ausfallgebühr fällig, falls kein Ausweichtermin gefunden werden kann. Termine die weniger als 24 Stunden vorher abgesagt werden, müssen zur Gänze entlohnt werden.",
+        "text2": "(2) Sagt der Auftragnehmer einen Beratungstermin ab, so ist unverzüglich ein neuer Termin von ihm zu nennen."
+      }
+    },
+    "paragraph6": {
+      "title": "Rücktritt",
+      "description": "Tritt der Auftraggeber weniger als 14 Tage vor der ersten Beratungs- / Fortbildungseinheit vom gesamten Vertrag zurück, so wird eine einmalige Ausfallgebühr von 10% des Vertragswertes erhoben."
+    },
+    "paragraph7": {
+      "title": "Nebenabreden und Vertragsänderungen",
+      "description": "Mündliche Nebenabreden bestehen zum Zeitpunkt des Vertragsabschlusses nicht. Änderungen und Ergänzungen dieses Vertrages bedürfen zu ihrer Wirksamkeit der Schriftform."
+    },
+    "paragraph8": {
+      "title": "Gerichtsstand",
+      "description": "Gerichtsstand ist der Wohnsitz des Auftragnehmers."
+    },
+    "paragraph9": {
+      "title": "Salvatorische Klausel",
+      "description": "Sind einzelne Bestimmungen dieses Vertrages unwirksam, so hat das nicht die Unwirksamkeit der übrigen Bestimmungen des Vertrages zur Folge."
+    },
+    "paragraph10": {
+      "title": "Rechtsauswahl",
+      "description": "Dieser Vertrag untersteht dem Recht der Bundesrepublik Deutschland."
+    }
+  },
+  "Impressum": {
+    "paragraph1": {
+      "description": "Alle Angaben gemäß §5 Telemediengesetz (TMG). Gemäß §28 BDSG widerspreche ich jeder kommerziellen Verwendung und Weitergabe meiner Daten"
+    },
+    "paragraph2": {
+      "title": "Dienstanbieterin"
+    }
+  },
+  "Privacy": {
+    "paragraph1": {
+      "title": "Grundlegendes",
+      "description": "Diese Datenschutzerklärung soll die Nutzer dieser Website über die Art, den Umfang und den Zweck der Erhebung und Verwendung personenbezogener Daten durch den Websitebetreiber (Olga Agovic) informieren. Der Websitebetreiber nimmt Ihren Datenschutz sehr ernst und behandelt Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Vorschriften. Da durch neue Technologien und die ständige Weiterentwicklung dieser Webseite Änderungen an dieser Datenschutzerklärung vorgenommen werden können, empfehlen wir Ihnen, sich die Datenschutzerklärung in regelmäßigen Abständen wieder durchzulesen. Definitionen der verwendeten Begriffe (z.B. “personenbezogene Daten” oder “Verarbeitung”) finden Sie in Art. 4 DSGVO."
+    },
+    "paragraph2": {
+      "title": "Zugriffsdaten",
+      "description1": "Wir, der Websitebetreiber bzw. Seitenprovider, erheben aufgrund unseres berechtigten Interesses (s. Art. 6 Abs. 1 lit. f. DSGVO) Daten über Zugriffe auf die Website und speichern diese als „Server-Logfiles“ auf dem Server der Website ab. Folgende Daten werden so protokolliert:",
+      "liste": {
+        "items1": "Besuchte Website",
+        "items2": "Uhrzeit zum Zeitpunkt des Zugriffes",
+        "items3": "Menge der gesendeten Daten in Byte",
+        "items4": "Quelle/Verweis, von welchem Sie auf die Seite gelangten",
+        "items5": "Verwendeter Browser",
+        "items6": "Verwendetes Betriebssystem",
+        "items7": "Verwendete IP-Adresse"
+      },
+      "description2": "Die Server-Logfiles werden für maximal 7 Tage gespeichert und anschließend gelöscht. Die Speicherung der Daten erfolgt aus Sicherheitsgründen, um z. B. Missbrauchsfälle aufklären zu können. Müssen Daten aus Beweisgründen aufgehoben werden, sind sie solange von der Löschung ausgenommen bis der Vorfall endgültig geklärt ist."
+    },
+    "paragraph3": {
+      "title": "Reichweitenmessung & Cookies",
+      "description1": "Diese Website verwendet Cookies zur pseudonymisierten Reichweitenmessung, die entweder von unserem Server oder dem Server Dritter an den Browser des Nutzers übertragen werden. Bei Cookies handelt es sich um kleine Dateien, welche auf Ihrem Endgerät gespeichert werden. Ihr Browser greift auf diese Dateien zu. Durch den Einsatz von Cookies erhöht sich die Benutzerfreundlichkeit und Sicherheit dieser Website. Falls Sie nicht möchten, dass Cookies zur Reichweitenmessung auf Ihrem Endgerät gespeichert werden, können Sie dem Einsatz dieser Dateien hier widersprechen:",
+      "liste": {
+        "items1": "Cookie-Deaktivierungsseite der Netzwerkwerbeinitiative:",
+        "items2": "Cookie-Deaktivierungsseite der US-amerikanischen Website:",
+        "items3": "Cookie-Deaktivierungsseite der europäischen Website:"
+      },
+      "description2": "Gängige Browser bieten die Einstellungsoption, Cookies nicht zuzulassen. Hinweis: Es ist nicht gewährleistet, dass Sie auf alle Funktionen dieser Website ohne Einschränkungen zugreifen können, wenn Sie entsprechende Einstellungen vornehmen. Erfassung und Verarbeitung personenbezogener Daten Der Websitebetreiber erhebt, nutzt und gibt Ihre personenbezogenen Daten nur dann weiter, wenn dies im gesetzlichen Rahmen erlaubt ist oder Sie in die Datenerhebung einwilligen. Als personenbezogene Daten gelten sämtliche Informationen, welche dazu dienen, Ihre Person zu bestimmen und welche zu Ihnen zurückverfolgt werden können – also beispielsweise Ihr Name, Ihre E-Mail-Adresse und Telefonnummer. Diese Website können Sie auch besuchen, ohne Angaben zu Ihrer Person zu machen. Zur Verbesserung unseres Online-Angebotes speichern wir jedoch (ohne Personenbezug) Ihre Zugriffsdaten auf diese Website. Zu diesen Zugriffsdaten gehören z. B. die von Ihnen angeforderte Datei oder der Name Ihres Internet-Providers. Durch die Anonymisierung der Daten sind Rückschlüsse auf Ihre Person nicht möglich."
+    },
+    "paragraph4": {
+      "title": "Umgang mit Kontaktdaten",
+      "description": "Nehmen Sie mit uns als Websitebetreiber durch die angebotenen Kontaktmöglichkeiten Verbindung auf, werden Ihre Angaben gespeichert, damit auf diese zur Bearbeitung und Beantwortung Ihrer Anfrage zurückgegriffen werden kann. Ohne Ihre Einwilligung werden diese Daten nicht an Dritte weitergegeben."
+    },
+    "paragraph5": {
+      "title": "Rechte des Nutzers",
+      "description": "Sie haben als Nutzer das Recht, auf Antrag eine kostenlose Auskunft darüber zu erhalten, welche personenbezogenen Daten über Sie gespeichert wurden. Sie haben außerdem das Recht auf Berichtigung falscher Daten und auf die Verarbeitungseinschränkung oder Löschung Ihrer personenbezogenen Daten. Falls zutreffend, können Sie auch Ihr Recht auf Datenportabilität geltend machen. Sollten Sie annehmen, dass Ihre Daten unrechtmäßig verarbeitet wurden, können Sie eine Beschwerde bei der zuständigen Aufsichtsbehörde einreichen."
+    },
+    "paragraph6": {
+      "title": "Löschung von Daten",
+      "description1": "Sofern Ihr Wunsch nicht mit einer gesetzlichen Pflicht zur Aufbewahrung von Daten (z. B. Vorratsdatenspeicherung) kollidiert, haben Sie ein Anrecht auf Löschung Ihrer Daten. Von uns gespeicherte Daten werden, sollten sie für ihre Zweckbestimmung nicht mehr vonnöten sein und es keine gesetzlichen Aufbewahrungsfristen geben, gelöscht. Falls eine Löschung nicht durchgeführt werden kann, da die Daten für zulässige gesetzliche Zwecke erforderlich sind, erfolgt eine Einschränkung der Datenverarbeitung. In diesem Fall werden die Daten gesperrt und nicht für andere Zwecke verarbeitet.",
+      "description2": "Nutzer dieser Webseite können von ihrem Widerspruchsrecht Gebrauch machen und der Verarbeitung ihrer personenbezogenen Daten zu jeder Zeit widersprechen. Wenn Sie eine Berichtigung, Sperrung, Löschung oder Auskunft über die zu Ihrer Person gespeicherten personenbezogenen Daten wünschen oder Fragen bzgl. der Erhebung, Verarbeitung oder Verwendung Ihrer personenbezogenen Daten haben oder erteilte Einwilligungen widerrufen möchten, wenden Sie sich bitte an folgende E-Mail-Adresse: "
+    }
+  },
+  "Contact": {
+    "title1": "Контакт",
+    "title2": "контактная форма",
+    "title3": "контактные данные",
+    "paragraph1": "Я с нетерпением жду вашего сообщения!",
+    "paragraph2": "Обязательные поля",
+    "name": "Имя",
+    "email": "Электронная почта",
+    "phone": "телефонный номер",
+    "statement": "Что я могу для Вас сделать?",
+    "declaration": "Отправляя, я даю согласие на обработку введенных данных и заявление о защите данных!",
+    "sent": "Отправить",
+    "user": "владелец",
+    "address": "Адрес"
+  },
+  "Offer": {
+    "Einzelpersonen": "физическое лицо",
+    "Unternehmen": "Компания",
+    "Angebot": "предложение",
+    "UnternehmenAngebot": {
+      "Unternehmerberatung": "Для групп/организаций/работодателей/предпринимателей/менеджеров",
+      "Description1": "Консультация/Коучинг коллективa, команд или групп, а также индивидуальный консалтинг / коучинг менеджера / лидера / предпринимателя возможны и полезны для того, чтобы повысить совместную производительность и рабочую компетентность в долгосрочной перспективе и вовлечь членов команды в процесс. Важными темами могут быть конфликты в командах. Лучше всего признать конфликты как можно раньше и конструктивно их урегулировать. Но каждый человек также является человеком с определенной личной обстановкой и заботами. Если каждый человек, от топ-босса до стажера в компании, чувствует себя хорошо, то команда может сплотиться и достичь общих целей. Межкультурность команды также часто является важной темой в процессе развития и коучинга команды и требует опыта и чувствительности в этой области."
+    },
+    "EinzelpersonenAngebot": {
+      "Einzelberatung": "индивидуальная консультация",
+      "Description1": "Отношения играют центральную роль в жизни человека. Особенно в наши дни межличностные отношения становятся все более важными. Хорошие устойчивые отношения и связи обогащают нашу жизнь, заставляют нас чувствовать себя счастливее и здоровее, способствуют нашей устойчивости и оказывают влияние на все сферы жизни человека. Каждая личность привлекает в свою жизнь определенные личности. И отношения развиваются соответственно. Часто хорошие отношения также требуют собственного развития личности. Общие отношения, работа, учеба, обучение, конфликты, кризисы, структурирование и порядок жизни, цели, развитие личности, доверительная / эмоциональная потребность в безопасности, одиночество, улучшение общей удовлетворенности жизнью, личные стрессовые проблемы различного рода, запросы на изменение одной или нескольких ситуаций / областей жизни, страхи, депрессивное поведение и другое стрессовое поведение, выгорание, травматические переживания и др…",
+      "Imigratenberatung": "Проблемы из-за миграции",
+      "Description2": "Миграция и связанные с ней кризисы, трудности, поиск и адаптация проблем на новой родине, различия в менталитете и связанные с ними конфликты и недоразумения, ностальгия, травматический опыт до и из-за миграции, ориентация на новый жизненный мир и многое другое...",
+      "Paarberatung": "Для пар",
+      "Description3": "Отношения, кризисы, а также международные отношения пары и связанные с ними обстоятельства и проблемы или особенности ...",
+      "Familienberatung": "Для семей",
+      "Description4": "Семейное консультирование предназначено для отдельных членов семьи, а также пар, семей с детьми и многодетных и членов семьи. Также в вопросах воспитательного консультирования, школьных трудностей детей, вызывающего поведения..."
+    }
+  },
+  "Hero": {
+    "Speech1": "Моменты принятия решений формируют нашу судьбу!",
+    "Speech2": "Всегда действуйте так, чтобы количество вариантов увеличивалось!",
+    "Speech3": "Смысл жизни: быть счастливым!"
+  }
+}

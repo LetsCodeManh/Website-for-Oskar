@@ -1,0 +1,10 @@
+.Container {
+  padding-top: 1rem;
+  text-align: center;
+  font-size: clamp(0.875rem, 3vw, 1.25rem);
+  line-height: 1.7;
+  width: 80%;
+  font-family: "Oxygen", sans-serif;
+  color: hsl(0, 0%, 100%);
+  font-weight: 300;
+}
